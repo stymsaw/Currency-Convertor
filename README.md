@@ -2,6 +2,8 @@
 
 Select countries to get the exchange rate for a specific amount
 
+#### View Live :- https://stymsaw.github.io/Currency-Convertor/
+
 ## Project Specifications
 
 - Display UI with 2 select lists for countries and 2 inputs for amounts
